@@ -3,6 +3,8 @@
 <h2>I´am student in Lic. Informática. I enjoy learning new things and improving my skills. I am a perfectionist, good at working in teams, and resourceful under pressure </h2>
 
 
+[<img align='right' src="https://i.pinimg.com/564x/c3/e2/11/c3e2112946bd4e6b597110d1d7afddaa.jpg" width="220" alt="giphy">]
+
 
 <br>
  Languages and Tools...
